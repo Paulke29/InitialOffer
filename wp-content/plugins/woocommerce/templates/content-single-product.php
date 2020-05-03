@@ -91,6 +91,8 @@ if ( post_password_required() ) {
 					break;
 					case "product-47":
 					IdReference = '489316';
+					// var element = document.querySelector('#color'); 
+					// console.log("ELEMENT: "+element)
 					// IdReference = '1654385435';
 					break;
 				//  break;
