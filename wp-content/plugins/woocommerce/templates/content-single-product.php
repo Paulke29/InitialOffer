@@ -149,6 +149,7 @@ if ( post_password_required() ) {
 											e.preventDefault()
 										}
 									}
+									
 							})
 							console.log("PPPPP")
 							setTimeout(function(){
@@ -157,6 +158,7 @@ if ( post_password_required() ) {
  								}, 300000000);
 							 e.preventDefault()
 						}
+						e.preventDefault()
 					})
 					
 				})
